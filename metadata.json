@@ -1,0 +1,6 @@
+{
+  "name": "IronTrack — Трекер фиксированных тренировок",
+  "description": "Продуманный трекер тренировок с фиксированной суточной программой, прогрессией весов, умным таймером отдыха и аналитикой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
